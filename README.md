@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 here's a little about me...
+
+💡 Entrepreneur, 🌎 Traveler, 🐧 Free Software enthusiast & Ubuntu Core-Dev, ⛓ Blockchain BUIDLer
 
 <!--
 **slyon/slyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
