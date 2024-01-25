@@ -2,6 +2,8 @@
 
 💡 Entrepreneur, 🌎 Traveler, 🐧 Free Software enthusiast & Ubuntu Core-Dev, ⛓ Blockchain BUIDLer
 
+I'm a Debian Developer & Ubuntu Core-Developer.
+
 <!--
 **slyon/slyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
