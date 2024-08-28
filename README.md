@@ -1,6 +1,6 @@
 ### Hi there 👋 here's a little about me...
 
-💡 Entrepreneur, 🌎 Traveler, 🐧 Free Software enthusiast, ⛓ Blockchain BUIDLer
+💡 Entrepreneur, 🌎 Traveler, 🐧 Free Software enthusiast
 
 I'm a Debian Developer & Ubuntu Core-Developer.
 
